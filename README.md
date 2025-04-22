@@ -1,6 +1,7 @@
 # Hi, I'm Sagar Bhatiya 👋
 
 ![Sagar's GitHub Banner](https://media.giphy.com/media/3o7TKwmvPM0OYwYvZa/giphy.gif)
+![Snake Animation](https://media.giphy.com/media/3o7TKwmvPM0OYwYvZa/giphy.gif)
 
 
 Welcome to my GitHub profile! I'm a passionate **B.Tech CSE** student at **Graphic Era Hill University, Bhimtal**, with a strong interest in **web development**, **competitive programming**, and **software engineering**. I love building things that make life easier and more fun!
