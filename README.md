@@ -1,67 +1,49 @@
-# Hi, I'm Sagar Bhatiya 👋
+<h2 align="left">Hi 👋! My name is Sagar Bhatiya and I'm a B.Tech CSE student, from Graphic Era Hill University, Bhimtal.</h2>
 
-![Sagar's GitHub Banner](https://media.giphy.com/media/3o7TKwmvPM0OYwYvZa/giphy.gif)
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarbhatiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbhatiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-Welcome to my GitHub profile! I'm a passionate **B.Tech CSE** student at **Graphic Era Hill University, Bhimtal**, with a strong interest in **web development**, **competitive programming**, and **software engineering**. I love building things that make life easier and more fun!
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🚀 Currently Working On
+###
 
-- **Personal Finance Tracker** (A full-stack web application using the MERN stack)
-- **P2P Serverless Messaging & File Sharing System** (For GEHU Lab sessions)
-- **Building my own UI library** (For a hackathon)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 💻 Technologies I Love
+###
 
-![Tech Stack Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Vite
-- **Backend**: Node.js, Express, MongoDB
-- **Languages**: C++, Java, Python
-- **Tools**: Git, GitHub, VS Code, Postman, Docker, Figma
+<br clear="both">
 
-## 🌱 Learning
+<img src="https://raw.githubusercontent.com/sagarbhatiya/sagarbhatiya/output/snake.svg" alt="Snake animation" />
 
-- **Data Structures & Algorithms** (Currently doing DSA from Striver's A2Z sheet)
-- **Machine Learning & AI**
-- **React and JavaScript Frameworks**
-- **Competitive Programming** (LeetCode, Codeforces)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sagarbhatiya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sagarbhatiya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=flat&logo=appveyor)](https://yourportfolio.com)
-
-## 📚 Projects
-
-### 1. **[Personal Finance Tracker](https://github.com/yourusername/personal-finance-tracker)**
-
-Track your personal finances with income and expense management.
-
-![Project Demo](https://media.giphy.com/media/l4FGpfs7qjQh1pz1y/giphy.gif)
-
-
-### 2. **[Fake UPI Detector](https://github.com/yourusername/fake-upi-detector)**
-
-Detect fake UPI links using machine learning.
-
-![Project Demo](https://media.giphy.com/media/l4FGpfs7qjQh1pz1y/giphy.gif)
-
-
-## 📊 GitHub Stats
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbhatiya&count_private=true&show_icons=true&hide=prs&theme=radical)
-
-## 📈 My GitHub Contributions
-
-![Sagar's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sagarbhatiya&theme=radical)
-
----
-
-Feel free to reach out if you want to collaborate or discuss ideas!
-
-Thanks for visiting! 😊
+###
